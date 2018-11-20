@@ -1,6 +1,8 @@
 # Glorp
 A demo showing off particle improvments in Unreal*.
 
+[Get the latest release here.](https://github.com/GameTechDev/Glorp/releases/latest)
+
 ## Controls
 ### Keyboard
 **[ W/A/S/D ]** - Move the controlled glorper in the main map.
