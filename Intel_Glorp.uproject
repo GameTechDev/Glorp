@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6B76982E-4264-61A7-42B8-13B060297AEA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Intel_Glorp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
